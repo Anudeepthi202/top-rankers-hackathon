@@ -8,3 +8,6 @@ This ranker scores 100,000 candidates against a job description and outputs the 
 
 ```bash
 pip install -r requirements.txt
+
+Live Colab sandbox (runs on a 1000‑candidate sample):  
+https://colab.research.google.com/drive/1AcAerobUnAc4ZOf2tSHUrSkj_GJh3gtr?usp=sharing
